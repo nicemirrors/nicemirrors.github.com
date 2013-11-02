@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Zhubang's Octopress Blog]]></title>
   <link href="http://nicemirrors.github.io/atom.xml" rel="self"/>
   <link href="http://nicemirrors.github.io/"/>
-  <updated>2013-11-02T13:04:15+08:00</updated>
+  <updated>2013-11-02T17:53:28+08:00</updated>
   <id>http://nicemirrors.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Zhubang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
